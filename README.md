@@ -20,7 +20,7 @@ Número de horas para quinta-feira:
 Número de horas para sexta-feira:  
 7 ↵  
 Salário semanal:  
-445 Euros  
+175 Euros  
  
 
 
